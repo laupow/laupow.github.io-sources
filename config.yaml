@@ -1,0 +1,13 @@
+---
+author: "Matt Lauer"
+baseURL: "https://laupow.github.io/"
+languageCode: en-us
+params:
+  sitename: "DevOps in Higher Ed"
+permalinks:
+  posts: "/:year/:month/:title/"
+publishDir: docs
+pygmentscodefences: true
+pygmentsstyle: bw
+theme: black-and-light
+title: "DevOps in Higher Ed"
